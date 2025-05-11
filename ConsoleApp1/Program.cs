@@ -1,0 +1,21 @@
+﻿using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Console.WriteLine("請輸入 3 個數字：");
+        int count = 3;
+        double sum = 0;
+
+        for (int i = 1; i <= count; i++)
+        {
+            Console.Write("輸入第 " + i + " 個數字：");
+            double number = Convert.ToDouble(Console.ReadLine());
+            sum += number;
+        }
+
+        double average = sum / count;
+        Console.WriteLine("平均值是：" + average);
+    }
+}
