@@ -1,0 +1,14 @@
+/Users/cheom-unsu/SumExample/ConsoleApp/bin/Debug/net10.0/ConsoleApp
+/Users/cheom-unsu/SumExample/ConsoleApp/bin/Debug/net10.0/ConsoleApp.deps.json
+/Users/cheom-unsu/SumExample/ConsoleApp/bin/Debug/net10.0/ConsoleApp.runtimeconfig.json
+/Users/cheom-unsu/SumExample/ConsoleApp/bin/Debug/net10.0/ConsoleApp.dll
+/Users/cheom-unsu/SumExample/ConsoleApp/bin/Debug/net10.0/ConsoleApp.pdb
+/Users/cheom-unsu/SumExample/ConsoleApp/obj/Debug/net10.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cheom-unsu/SumExample/ConsoleApp/obj/Debug/net10.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/cheom-unsu/SumExample/ConsoleApp/obj/Debug/net10.0/ConsoleApp.AssemblyInfo.cs
+/Users/cheom-unsu/SumExample/ConsoleApp/obj/Debug/net10.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/cheom-unsu/SumExample/ConsoleApp/obj/Debug/net10.0/ConsoleApp.dll
+/Users/cheom-unsu/SumExample/ConsoleApp/obj/Debug/net10.0/refint/ConsoleApp.dll
+/Users/cheom-unsu/SumExample/ConsoleApp/obj/Debug/net10.0/ConsoleApp.pdb
+/Users/cheom-unsu/SumExample/ConsoleApp/obj/Debug/net10.0/ConsoleApp.genruntimeconfig.cache
+/Users/cheom-unsu/SumExample/ConsoleApp/obj/Debug/net10.0/ref/ConsoleApp.dll
