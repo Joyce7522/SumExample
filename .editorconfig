@@ -1,0 +1,4 @@
+[*.cs]
+
+# IDE0210: 轉換成最上層陳述式
+csharp_style_prefer_top_level_statements = true
